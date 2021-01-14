@@ -23,13 +23,13 @@ at multiple points in the workshop and in different forms.
 
 ## Surveys
 
-Carpentries learners fill out a survey before attending and immediately after a workshop. 
+A ggod idea is to get learners to complete a survey before attending and immediately after a workshop. 
 These surveys include questions to help instructors get an idea of their attendees prior
 experience and backgrounds before the workshop starts. Using this information, instructors
 can start to plan how they will approach the materials and what level of exercises
 are likely to be appropriate for their learners. 
 
-You can preview the surveys your learners will receive at the links below:  
+You can preview some typical surveys at the links below:  
 - [Software Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=V6gQbbOKn3NoPKfYKHjAKu_2BBCdtXXsTS2pf1BIdARccEtJQqlu1KFB2j2TcF0MCn)   
 - [Software Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)    
 - [Data Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=zdE7x498WxTrpyiD6WEQJaspyjn2T7djLpBg2pc36ylXiMCwflbQtv6puqE01NB4)  
@@ -42,10 +42,10 @@ You can preview the surveys your learners will receive at the links below:
 > 
 > We've found that learners are much more likely to fill out the post-workshop survey
 > while they're still at the workshop than they are after they leave the venue. At the end 
-> of a two-day workshop, your learners' brains will be very tired. Rather than trying to 
+> of a workshop, your learners' brains will be very tired. Rather than trying to 
 > fit in another 15 minutes worth of teaching, give your learners time to complete the
 > post-workshop survey at the end of your workshop. You'll be helping them (they get a
-> bit of a rest), yourself (you'll get more useful feedback), and the Carpentries.
+> bit of a rest) and yourself (you'll get more useful feedback).
 {: .callout}
 
 ## Minute Cards
@@ -67,7 +67,7 @@ Instructors can change the prompt to elicit different types of feedback at each 
 Over lunch and before the second day starts, the instructors read through the minute 
 cards and look for patterns. At the start of day two and each afternoon, the instructors
 take a few minutes to address commonly raised issues with the whole class. The 
-non-teaching instructor can also type answers to the questions in the Etherpad.
+non-teaching instructor can also type answers to the questions in the shared document.
 
 > ## Be Explicit
 > 
@@ -87,7 +87,7 @@ negative point about the day, without repeating anything that has
 already been said.  This requirement forces people to say things they
 otherwise might not: once all the "safe" feedback has been given,
 participants will start saying what they really think. The instructor
-writes down the feedback in the Etherpad or a text editor,
+writes down the feedback in the shared document or a text editor,
 but does not comment on the feedback while collecting it. The instructors then
 discuss this feedback and how they plan to act on it. Like with minute cards, be explicit
 about how you're responding to learner feedback.

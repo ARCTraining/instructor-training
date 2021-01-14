@@ -5,7 +5,7 @@ teaching: 20
 exercises: 40
 questions:
 - "How do people learn?"
-- "Who is a typical Carpentries learner?"
+- "Who is a typical researcher learner?"
 - "How can we help novices become competent practitioners?"
 objectives:
 - "Explain why practice and feedback are important for learning."
@@ -18,23 +18,23 @@ keypoints:
 
 We'll now get started with a discussion of how learning works. We'll learn
 some key findings from educational research and identify how these principles
-are put into practice in Carpentry workshops.
+are put into practice in our workshops.
 
-## The Carpentries Pedagogical Model
+## Our Pedagogical Model
 
-The Carpentries aims to teach computational competence to learners. We take an applied approach, avoiding the theoretical and general
-in favor of the practical and specific. By showing learners how to solve specific problems with specific tools and providing hands-on
-practice, we develop learners' confidence and lay the foundation for future learning.
+We base our pedagological model on that used by The Carpentries. It aims to teach computational competence to learners. We take an applied approach, avoiding the theoretical and general in favour of the practical and specific. By showing learners how to solve specific problems with specific tools and providing hands-on practice, we develop learners' confidence and lay the foundation for future learning.
 
 A critical component of this process is that learners are able to practice what they are learning in real time, get
 feedback on what they are doing, and then apply those lessons learned to the next step in the learning process. Having
 learners help each other during the workshops also helps to reinforce concepts taught during the workshops.
 
-A Carpentries workshop is an interactive event -- for learners and instructors. We give and
+Workshops work best when they are interactive events -- for learners and instructors. We give and
 receive feedback throughout the course of a workshop. We incorporate assessments within the lesson materials and
-ask for feedback on sticky notes during lunch breaks and at the end of each day. In this way, instructors can adjust the
+ask for feedback on 'sticky notes' (or in shared documents) during lunch breaks and at the end of each day. In this way, instructors can adjust the
 pace and content of a workshop to meet the needs of the learners in that group, as well as collect feedback
-that will help us improve lesson materials or methodology for future workshops. Instructors and helpers also provide
+that will help us improve lesson materials or methodology for future workshops. 
+
+Instructors and helpers also provide
 feedback to learners throughout workshops in order to get them unstuck or provide a greater depth of understanding about
 the materials. Interacting in this way with the learners helps us determine how they are doing and figure out what concepts
 people are having trouble with or where we might be able to move along more quickly.
@@ -55,24 +55,24 @@ the three stages of this model are:
     they don't yet know what the key ideas in the domain are or how they relate.
     One sign that someone is a novice is that their questions "aren't even wrong".
 
-    > Example: A *novice* learner in a Carpentries workshop might never have heard of the bash shell, and therefore
+    > Example: A *novice* learner in a workshop might never have heard of the bash shell, and therefore
     may have no understanding of how it relates to their file system or other programs on their computer.
 
 *   *Competent practitioner*: someone who has enough understanding for everyday purposes. They won't know all the details
 of how something works and their understanding may not be entirely accurate, but it is sufficient for completing normal
 tasks with normal effort under normal circumstances.
 
-    > Example: A *competent practitioner* in a Carpentries workshop might have used the shell before and understand how to
+    > Example: A *competent practitioner* in a workshop might have used the shell before and understand how to
     move around directories and use individual programs, but they might not understand how they can fit these programs
     together to build scripts and automate large tasks.
 
 *   *Expert*: someone who can easily handle situations that are out of the ordinary.
 
-    > Example: An *expert* in a Carpentries workshop may have experience writing and running shell scripts and, when
+    > Example: An *expert* in a workshop may have experience writing and running shell scripts and, when
     presented with a problem, immediately sees how these skills can be used to solve the problem.
 
 For now, we are primarily concerned with novices,
-as this tends to characterize the Carpentries audience. (We, as instructors,
+as this tends to characterise our typical audience. (We, as instructors,
   are more likely to be competent practitioners or experts, and we'll
 discuss this in a later section).  We'll next use an additional concept
 to help us differentiate between novices and competent practitioners, which will have
@@ -82,9 +82,9 @@ implications for how we teach novices.
 
 Effective learning is facilitated by the creation of a well-founded mental model. A mental model is a collection of concepts and facts,
 along with the relationships between those concepts, which a person has about a topic. For example, a long-time resident of the United
-States may have an advanced understanding of the location of US states, major cities and landmarks, weather patterns, regional
+Kingdom may have an advanced understanding of the location of counties, major cities and landmarks, weather patterns, regional
 economies and demographic patterns, as well as the relationships among these, compared with their understanding of these relationships
-for other countries. In other words, their mental model of the United States is more complex compared with their mental model of other
+for other countries. In other words, their mental model of the UK is more complex compared with their mental model of other
 countries.
 
 We can distinguish between a *novice* and a *competent
@@ -105,7 +105,7 @@ We will discuss the mental models of experts in more detail in [a later lesson](
 
 > ## Your Mental Models
 >
-> In the Etherpad, write your primary research domain or area of expertise and some aspects of the mental model you use to frame
+> In the shared document, write your primary research or work domain or area of expertise and some aspects of the mental model you use to frame
 > and understand your work. What concepts/facts are included? What types of relationships are included?
 >  
 > This discussion should take about 5 minutes.
@@ -120,7 +120,7 @@ In fact,
 presenting too many facts too soon can actually reinforce
 an incorrect mental model.
 
-Most learners coming to Carpentries lessons are novices,
+Most learners coming to our lessons are novices,
 and do not have a strong mental model of the concepts we are teaching.
 Thus, our primary goal is *not*
 to teach the syntax of a particular programming language, but *to help them construct a working mental model*
@@ -130,7 +130,7 @@ management in a way that will allow them to learn more on their own or understan
 ### The Importance of Going Slowly
 
 > If someone feels it's too slow, they'll be a bit bored. If they feel it's too fast, they'll never come back to programming.
-> — Kunal Marwaha, SWC instructor
+> — Kunal Marwaha, instructor
 {: .quotation}
 
 If our goal is to help novices construct an accurate and useful mental model of a new intellectual domain,
@@ -168,7 +168,7 @@ Explicitly referring back to pipes and filters in the shell when introducing fun
 helps solidify both ideas.
 
 > ## Meeting Learners Where They Are
-> One of the strengths of Carpentry workshops is that we meet learners where they're at. Carpentry instructors
+> One of the strengths of good workshops is that we meet learners where they're at. Practiced instructors
 > strive to help learners
 > progress from whatever starting point they happen to be at, without making anyone
 > feel inferior about their current practices or skillsets. We do this in part by teaching relevant and useful skills
@@ -192,7 +192,7 @@ models.
 Correcting learners' misconceptions is at least as important as presenting them with correct information.
 Broadly speaking, misconceptions fall into three categories:
 
-*   Simple *factual errors*, such as believing that Vancouver is the capital of British Columbia.
+*   Simple *factual errors*, such as believing that Leeds is the capital of the UK.
     These are the easiest to correct.
 *   *Broken models*, such as believing that motion and acceleration must be in the same direction.
     We can address these by having learners reason through examples to see contradictions.
@@ -252,7 +252,7 @@ results are easily interpretable by the learner and instructor.
 > getting feedback,
 > and then changing behavior in response to that feedback to get cumulatively better.
 > Doing the same thing over and over again is much more likely to solidify bad habits than perfect performance.
-> This is why we emphasize practice and feedback for learners at our workshops and for trainees in our
+> This is why we emphasise practice and feedback for learners at our workshops and for trainees in our
 > instructor training program.
 {: .callout}
 
@@ -265,7 +265,7 @@ There are many types of formative assessment, and each have their advantages and
 > Based on your previous educational experience (or even this training so far!)
 > what types of formative assessments do you know about?
 >
-> Write your answers in the etherpad; or go around and have each person in the group name one.
+> Write your answers in the shared document; or go around and have each person in the group name one.
 {: .challenge}
 
 One example of formative assessment that we would like to highlight is
@@ -290,7 +290,7 @@ but each of the other answers provides valuable insight.
 
 > ## Identify the Misconceptions
 >
-> Choose one wrong answer and write in the Etherpad what the misconception is associated with that wrong answer.
+> Choose one wrong answer and write in the shared document what the misconception is associated with that wrong answer.
 > This discussion should take about 10 minutes.
 >
 >> ## Solution
@@ -327,7 +327,7 @@ Knowing how to respond to the results of a formative assessment is a skill that 
 > 2. mostly the right answer?  
 > 3. an even spread among options?
 >
-> For one of the above, enter your answer in the Etherpad.   
+> For one of the above, enter your answer in the shared document.   
 >
 > This discussion should take about 5 minutes.
 >
@@ -342,10 +342,10 @@ Knowing how to respond to the results of a formative assessment is a skill that 
 > {: .solution}
 {: .challenge}
 
-> ## Modeling Novice Mental Models
+> ## Modelling Novice Mental Models
 >
 > Take 10 minutes to create a multiple choice question related to a topic you intend to teach.
-> Type it into the Etherpad
+> Type it into the shared document
 > and explain the diagnostic power of each its distractors,
 > i.e., what misconception is each distractor meant to identify?
 {: .challenge}
@@ -391,7 +391,7 @@ in which you were going to explain something that your learners already know.
 > ## How Many?
 >
 > The Carpentries use formative assessments often. How many have we done since the start of this
-> workshop? Put your guess in the Etherpad along with one example and the purpose that assessment served.  
+> workshop? Put your guess in the shared document along with one example and the purpose that assessment served.  
 >
 > This discussion should take about 5 minutes.
 >

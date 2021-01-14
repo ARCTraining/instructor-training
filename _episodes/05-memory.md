@@ -53,11 +53,11 @@ frequent formative assessment is important.
 > [This website][memory-test] implements a short test of working memory.  
 >
 > Take 5 minutes to complete the exercise. What was your score? Write your answer
-> in the Etherpad.
+> in the shared document.
 >
 {: .challenge}
 
-> ## Test Your Working Memory - Analog version (5 min)
+> ## Test Your Working Memory - Analogue version (5 min)
 >
 > Read the following list and try to memorize the items in it:
 >
@@ -65,7 +65,7 @@ frequent formative assessment is important.
 > hammer, milk, fish, book, tape, arrow, flower, key, shoe
 >
 > Without looking at the list again, write down as many words from the list as
-> you can. How many did you remember? Write your answer in the Etherpad.
+> you can. How many did you remember? Write your answer in the shared document.
 >
 {: .challenge}
 
@@ -97,7 +97,7 @@ rather than as five separate pieces of information.
 > Repeat the memory exercise you did earlier, but this time,
 > try to form short stories or phrases, or a visual image, from the words you see.
 >
-> Write the number of words you remembered in the Etherpad.
+> Write the number of words you remembered in the shared document.
 > How does this compare with your first attempt?
 {: .challenge}
 
@@ -188,7 +188,7 @@ knowledge.
 
 > ## Concept Mapping
 >
-> Create a hand-drawn concept map for a part of a Carpentry lesson you would teach in
+> Create a hand-drawn concept map for a part of a lesson (Carpentries lessons are a good place to start) you would teach in
 > five minutes (i.e.
 > the amount of material you would teach before doing a formative assessment).
 > You can use the same subject about which you created a multiple choice question, or
@@ -199,7 +199,7 @@ knowledge.
 > overwhelming your learners' short-term memory?
 >
 > Take 10 minutes to draw the concept maps and share with your neighbor.
-> Write "*done*" in the Etherpad chat once you have finished.
+> Write "*done*" in the shared document chat once you have finished.
 {: .challenge}
 
 > ## Other Uses of Concept Maps
@@ -380,7 +380,7 @@ concept in your concept map.
 >     or from another lesson you have taught recently.
 > 2.  Replace 2-3 pieces of the code with a blank.
 > 3.  Write a question to test the learner's ability to correctly fill in that blank.
-> 5.  Paste your faded example in the Etherpad.
+> 5.  Paste your faded example in the shared document.
 >
 > This exercise should take about 10 minutes.
 >

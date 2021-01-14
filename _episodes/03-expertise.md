@@ -110,7 +110,7 @@ however, would be confused by this unexplained use of two different ways of repr
 
 > ## Fluid Representations  
 >
-> In the Etherpad, give at least one example of a fluid representation that you use in your
+> In the shared document, give at least one example of a fluid representation that you use in your
 > own work. If you can, also give an example of a fluid representation that might occur in a
 > Carpentry lesson.
 >
@@ -130,7 +130,7 @@ seem trivial to you, as they often will.
 >
 > What is an error message that you encounter frequently in your work? (These are often syntax errors.)
 > Take a few minutes to plan out how you would explain that error message to your learners. Write the
-> error and your explanation in the Etherpad.
+> error and your explanation in the shared document.
 >
 > This discussion should take about 5 minutes.  
 {: .challenge}
@@ -177,7 +177,7 @@ it with more positive and motivating word choices.
 > What other words or phrases can have the effect of demotivating learners? What alternatives can we use to
 > express this meaning in a positive and motivational way?  
 >
-> In the Etherpad, make a list of demotivating words/phrases and alternatives.  
+> In the shared document, make a list of demotivating words/phrases and alternatives.  
 >
 > This discussion should take about 5 minutes.  
 >
@@ -249,10 +249,10 @@ we have adopted a "teach most immediately useful first" approach.
 We'll talk much more about this when we discuss
 [motivation]({{ page.root }}/08-motivation/).
 
-> ## The Carpentries Is Not Computer Science  
+> ## We Are Not (always) Teaching Computer Science  
 >
 > Many of the foundational concepts of computer science,
-> such as computability,
+> such as computability or computation,
 > are difficult to learn and not immediately useful.
 > This does *not* mean that they aren't important,
 > or aren't worth learning,
