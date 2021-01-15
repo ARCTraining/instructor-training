@@ -281,7 +281,7 @@ For our workshops, this means the instructor should say out loud commands as the
 How do we implement guided practice, lessening the burden of extraneous
 cognitive load and allow people to focus on what's important?  There are
 many different types of exercises that implement this guided practice; some
-are listed in this [blog post by Greg Wilson][GW-exercise-post], including
+are listed in this [article by Greg Wilson][GW-exercise-post], including
 Parson's Problems and labelling diagrams.
 
 To learn more about a specific guided practice exercise
@@ -427,4 +427,4 @@ limitations of short-term memory will improve the effectiveness of your teaching
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect
 [wikipedia-7]: https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two
 [phone-nums]: https://www.quora.com/Why-did-Bell-Labs-create-phone-numbers-of-7-digits-10-digits
-[GW-exercise-post]: http://third-bit.com/2017/10/16/exercise-types.html
+[GW-exercise-post]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007433
